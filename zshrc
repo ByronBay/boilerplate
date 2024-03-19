@@ -7,3 +7,6 @@ alias ll='ls -la'
 alias vim='nvim'
 # bat
 alias cat='bat'
+# gitk 
+alias gka='gitk --all'
+
